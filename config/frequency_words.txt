@@ -86,6 +86,10 @@ ai
 
 机器人
 
+lofi
+youtube
+music
+
 国产
 中国
 
